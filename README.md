@@ -120,9 +120,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-
-
-## HTML VALIDATOR
+![timetable](https://user-images.githubusercontent.com/119559366/232226843-e251afe6-404d-48b2-93dc-601fe00c7ccd.png)
 
 
 ## RESULT
